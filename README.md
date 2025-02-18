@@ -1,5 +1,5 @@
 # PROGRAMMING 
-## 01 python pverview
+## 01 python overview
 
 [EX01-01 ](EX01_01_加法器.ipynb)
 
