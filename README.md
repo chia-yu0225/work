@@ -7,3 +7,4 @@
 
 [EX01-03 ](EX01_03_Rock_Paper_Scissors.ipynb)
 
+[EX01-04 ](EX01_04_終極密碼.ipynb)
