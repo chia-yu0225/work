@@ -11,3 +11,4 @@
 
 [EX01-05 ](EX01_05_Caesar_Cipher_Encode_and_decode.ipynb)
 
+[EX01-06 ]()
