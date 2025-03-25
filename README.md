@@ -25,4 +25,4 @@
 
 [EX02-04 ](EX02_04_Download_Pokemon_Images.ipynb)
 
-[EX02-05 ]()
+[EX02-05 ](EX02_05_PTT_Gossiping.ipynb)
