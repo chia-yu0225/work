@@ -29,6 +29,6 @@
 
 [EX02-06 ](EX02_06_開眼電影.ipynb)
 
-[EX02-07 ](EX02-07 KKDay.ipynb)
+[EX02-07 ](EX02_07_KKDay.ipynb)
 
 
