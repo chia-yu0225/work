@@ -49,7 +49,7 @@
 
 ## 04 Machine Learning
 
-[EX04-01 ]()
+[EX04-01 ](EX04_01_汽車車型數值資料轉換.ipynb)
 
 ## 05 Web API
 
