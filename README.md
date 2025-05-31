@@ -53,6 +53,8 @@
 
 [EX04-02 ](EX04_02_客戶基本資料編碼.ipynb)
 
+[EX04-03 ](EX04_03_客戶分群.ipynb)
+
 ## 05 Web API
 
 [EX05-01 ](EX05_01_Echo_Bot.ipynb)
