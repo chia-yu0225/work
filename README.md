@@ -59,7 +59,7 @@
 
 [EX04-05](EX04_05_辨識鳶尾花.ipynb)
 
-[EX04-06]()
+[EX04-06](EX04_06_ET_Today_新聞標題分類.ipynb)
 
 ## 05 Web API
 
